@@ -1,6 +1,5 @@
 # Index
 
-
 * [Lecture 1](lct01.md)
 * [Lecture 2](lct02.md)
 * [Lecture 3](lct03.md)
